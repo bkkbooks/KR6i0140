@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6i0140/v1
+canonical_location: https://kanripo.org/bkk/KR6i0140/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 採花違王上佛授決號妙花經
+  identifiers:
+    alt_id:
+    - T14n0510
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0510.xml
+    old_id: T14n0510
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0140_000.yaml, hash: 'sha256:42e6be24e38f807763fc6002d1199ac8fb346fe6fe4c79f0e7129318f86cc2f3'}
+  - {seq: 1, filename: KR6i0140_001.yaml, hash: 'sha256:574063af089251fc3f45e9229389f1a50715c89527c474422ae932da75a3bee9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0140_001.markers.yaml, hash: 'sha256:333cc0f12bf65cf2c3ffc02351d5315b5bee0917c362be4c997fa4715cec3eea'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0140_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 834
+  label: 採花違王上佛授決號妙花經
+  type: juan
+  level: 1
+hash: sha256:b749b2133a53d7541d98a873f28d0fae10805128c27ae0dd83c1f886b78b0d7d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

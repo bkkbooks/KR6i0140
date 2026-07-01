@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0140/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 採花違王上佛授決號妙花經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0510.xml
+    old_id: T14n0510
+hash: sha256:42e6be24e38f807763fc6002d1199ac8fb346fe6fe4c79f0e7129318f86cc2f3
