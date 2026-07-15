@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0140/v1
 canonical_location: https://kanripo.org/bkk/KR6i0140/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 採花違王上佛授決號妙花經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0140_000.yaml, hash: 'sha256:42e6be24e38f807763fc6002d1199ac8fb346fe6fe4c79f0e7129318f86cc2f3'}
-  - {seq: 1, filename: KR6i0140_001.yaml, hash: 'sha256:e699ab390875c79c97d2b00b3f85dd65753b6460665d3f865b52cfa2c4763ac9'}
+  - {seq: 1, filename: KR6i0140_001.yaml, hash: 'sha256:e202631b5812aedbd0c53191aa7c8c45dc887897a66ae344c072e6bca51ab801'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0140_000.markers.yaml, hash: 'sha256:75c4dcf297b2be935bdcc132e5500c57030e90f5648b413ab85483f566b573f7'}
-  - {seq: 1, role: markers, filename: assets/KR6i0140_001.markers.yaml, hash: 'sha256:40266c9e77303029f2876213c51e5f7eef313acddfc275dcf30e0d1a06ea5975'}
+  - {seq: 1, role: markers, filename: assets/KR6i0140_001.markers.yaml, hash: 'sha256:ceb5a0c255a1a08bc6a13ca5f84c2bba6fb81aab6fcf30cdd5677340f5393407'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 採花違王上佛授決號妙花經
   type: juan
   level: 1
-hash: sha256:c22c8bb5cecbf41a08a612e21f5c59a2caa34fd6798b5f560e340081d4a9cfb6
+hash: sha256:4362e39be3d0fb3c35c052f8c46b11d42fdecc3ea2be68351c8b561a4a821170
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
